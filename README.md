@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tom-Quirk
 - 👀 I’m interested in maths and computer science
-- 🌱 I’m currently learning python and html
+- 🌱 I’m currently learning Python, Javascript and Ruby.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: thomas.q@hotmail.co.uk
 
