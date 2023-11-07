@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tom-Quirk
-- 👀 I’m studying in maths and computer science
+- 👀 I’m studying maths and computer science
 - 🌱 I’m currently learning Python, Javascript and Ruby.
 - 📫 How to reach me ... email: thomas.q@hotmail.co.uk
 
