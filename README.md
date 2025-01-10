@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Tom-Quirk
-- 👀 I’m studying maths and computer science
-- 📫 How to reach me ... email: thomas.q@hotmail.co.uk  linkedin: https://www.linkedin.com/in/thomas-quirk2002/
-
+- 👋 Hi, I’m @Tom-Quirk .
+- 👀 I’m a 2nd year studying Mathematics and Computer Science at Durham University.
+- 📫 How to reach me: email: thomas.q@hotmail.co.uk  linkedin: https://www.linkedin.com/in/thomas-quirk2002/ .
 
 - My most recent project involved building a Random Forest Classification Algorithm from scratch in Python using NumPy arrays as part of my 2nd year AI module coursework.
 - To view my code, click on the .ipynb file in the repository, then "command" + "f" and type in "fitting the model".
