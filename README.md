@@ -8,7 +8,7 @@
   
 - MARK ACHIEVED: 72% (1st Class).
   
-- A 4-PAGE PDF REPORT on the entire ML pipeline building process can be found inside machine_learning_cw.pdf.
+- A 4-PAGE PDF REPORT on the entire ML pipeline process can be found inside machine_learning_cw.pdf.
   
 - TO VIEW THE CODE FOR THIS PROJECT, click on TQ_ML_BCI_Coursework.ipynb in this repository, then "command" + "f" and type in "Implementation of Random Forest using NumPy arrays".
 
